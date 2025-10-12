@@ -1,3 +1,3 @@
 # latihan-branch 
 +ini adalah halaman development
-melakukan perubahan di barach main 
+melakukan perubahan di brach development
